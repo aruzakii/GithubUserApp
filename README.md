@@ -1,16 +1,24 @@
 # GithubUserApp
 
+<h2>
+  Aplikasi ini memungkinkan Anda untuk:
+</h2>
+<ul>
+  <li>Mencari pengguna Github berdasarkan nama pengguna.</li>
+  <li>Melihat detail pengguna Github, termasuk nama, username,jumlah follower dan following</li>
+  <li>Melihat daftar pengikut dan following pengguna.</li>
+</ul>
 
-Deskripsi Github untuk GithubUser App
-Aplikasi ini memungkinkan Anda untuk:
+<h2>
+  Teknologi yang Digunakan:
+</h2>
+<ul>
+  <li>Android Studio</li>
+  <li>Kotlin</li>
+  <li>Retrofit</li>
+  <li>Github API</li>
+  <li>Room</li>
+</ul>
 
-Mencari pengguna Github berdasarkan nama pengguna.
-Melihat detail pengguna Github, termasuk nama, bio, lokasi, jumlah pengikut dan following, dan repositori publik.
-Melihat daftar pengikut dan following pengguna.
-Melihat daftar repositori publik pengguna.
-Teknologi yang Digunakan:
 
-Android Studio
-Kotlin
-Retrofit
-Github API
+
