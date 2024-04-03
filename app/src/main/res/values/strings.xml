@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GithubUser</string>
+    <string name="username">Username</string>
+    <string name="name">Fahrel Ardzaky</string>
+    <string name="usernamedetail">Username</string>
+    <string name="tab_text1">Followers</string>
+    <string name="tab_text2">Following</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="dark_mode">Dark Mode</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="halaman">Halaman</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+</resources>
